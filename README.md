@@ -89,6 +89,7 @@ dependencies fail.
 The following is a target architecture, not a claim that every service
 is already implemented.
 
+
 ``` mermaid
 flowchart LR
     Client[Web / Mobile Client] --> Gateway[API Gateway]
@@ -102,6 +103,7 @@ flowchart LR
     Payment --> PaymentDB[(Payment PostgreSQL)]
     Ledger --> LedgerDB[(Ledger PostgreSQL)]
 ```
+
 
 ### Candidate service boundaries
 
