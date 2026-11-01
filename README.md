@@ -1,6 +1,6 @@
 # Bank Stack
 
-**A production-oriented digital banking platform built with Java, Spring
+**A Production-Oriented Digital Banking Platform built with Java, Spring
 Boot Microservices, Spring Security, Apache Kafka, and PostgreSQL.**
 
 Bank Stack is a learning and portfolio project exploring how a digital
